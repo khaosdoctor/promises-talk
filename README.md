@@ -4,7 +4,7 @@
 
 Translation: [PT](./README-pt.md)
 
-Link: [TBD]
+Link: [Here](https://www.youtube.com/watch?v=wZwMVbgQZps)
 
 ## Usage
 
